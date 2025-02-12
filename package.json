@@ -1,5 +1,5 @@
 {
-  "homepage": "SafwatTJ/20_task_manager_ts",
+  "homepage": "https://SafwatTJ.github.io/20_task_manager_ts",
   "name": "10_task_manager_ts",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploe": "vite build && gh-pages -d dist"
+    "deploy": "vite build && gh-pages -d dist"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.1",
